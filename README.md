@@ -1,5 +1,7 @@
 # frontend
 
+一个项目的前端，接口由http://39.108.163.207/api提供
+
 ## Project setup
 ```
 npm install
@@ -22,3 +24,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
